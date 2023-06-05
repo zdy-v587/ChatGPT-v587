@@ -439,7 +439,7 @@ export function ImagePreviewer(props: {
           <div>
             <div className={styles["main-title"]}>ChatGPT- AI助手</div>
             <div className={styles["sub-title"]}>
-              github.com/Yidadaa/ChatGPT-Next-Web
+              问鼎九洲信息科技.联系QQ:2933636923
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
